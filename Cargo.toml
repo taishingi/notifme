@@ -9,7 +9,7 @@ categories = ["development-tools"]
 keywords = ["notify-send", "notif"]
 authors = ["Willy Micieli"]
 readme = "README.md"
-
+documentation = "https://docs.rs/notifme/"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
